@@ -1,0 +1,16 @@
+# resource links
+
+tableau public link:https://public.tableau.com/views/ElonMonayosVisualizationsforGloboxDataProject/ConversionRateVsAvgSpentperUserbyTestGroup?:language=en-US&:display_count=n&:origin=viz_share_link
+ 
+              
+Advanced tasks
+
+Visualizing the confidence interval: https://colab.research.google.com/drive/12O6wjMzCc5CpXUG9kHyG9qt2zK6EW8G7?usp=sharing
+
+Check for Novelty Effect: using python: https://colab.research.google.com/drive/1NNiLZSI0NcpgvBMh0V6IrN2JPsFqqHS0?usp=sharing
+
+
+                   
+
+
+presentation video link:https://www.loom.com/share/1b1ac2ab750e4af59dfee4a0e076d6e5?sid=b383d74a-2fc8-45d0-a9ed-be4aeff3b9f1
